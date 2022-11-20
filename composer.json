@@ -1,0 +1,21 @@
+{
+    "name": "embeer/math",
+    "description": "tools for math exercising",
+    "homepage": "http://github.com/embeer/math",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "eM Beer",
+        "email": "embeer@photophun.eu",
+        "homepage": "http://github.com/embeer/"
+      }
+    ],
+    "require": {
+      "php": ">=7.2.0"
+    },
+    "autoload": {
+      "psr-4": {"embeer\\math\\": "src/"}
+    },
+    "minimum-stability": "stable"
+  }
