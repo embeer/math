@@ -1,6 +1,6 @@
 <?php
 
-namespace embeer\classes;
+namespace embeer\math;
 
 class Expressions
 {
